@@ -2,7 +2,8 @@
   "name": "ministry-asset-task-tracker",
   "version": "0.1.0",
   "private": true,
-      "homepage":"https://github.com/Favour1738/MOF-TRACKER-WEBAPP.git",
+      "homepage": "https://Favour1738.github.io/MOF-TRACKER-WEBAPP",
+
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
