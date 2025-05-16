@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MOF-TRACKER-WEBAPP/static/css/main.ae0e10c4.css",
-    "main.js": "/MOF-TRACKER-WEBAPP/static/js/main.13c11d5e.js",
+    "main.js": "/MOF-TRACKER-WEBAPP/static/js/main.aa90eaff.js",
     "static/js/453.f5c9d47c.chunk.js": "/MOF-TRACKER-WEBAPP/static/js/453.f5c9d47c.chunk.js",
     "static/media/ict-banner.png": "/MOF-TRACKER-WEBAPP/static/media/ict-banner.f229d6f99108ab77a60c.png",
     "index.html": "/MOF-TRACKER-WEBAPP/index.html",
     "main.ae0e10c4.css.map": "/MOF-TRACKER-WEBAPP/static/css/main.ae0e10c4.css.map",
-    "main.13c11d5e.js.map": "/MOF-TRACKER-WEBAPP/static/js/main.13c11d5e.js.map",
+    "main.aa90eaff.js.map": "/MOF-TRACKER-WEBAPP/static/js/main.aa90eaff.js.map",
     "453.f5c9d47c.chunk.js.map": "/MOF-TRACKER-WEBAPP/static/js/453.f5c9d47c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae0e10c4.css",
-    "static/js/main.13c11d5e.js"
+    "static/js/main.aa90eaff.js"
   ]
 }
