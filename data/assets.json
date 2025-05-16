@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Dell Laptop", "type": "Hardware", "assignedTo": "John Doe" },
+  { "id": 2, "name": "Adobe License", "type": "Software", "assignedTo": null }
+]
