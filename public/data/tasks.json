@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Install Antivirus",
+    "description": "Install and activate antivirus on all systems.",
+    "status": "In Progress",
+    "assignedTo": "Jane Smith"
+  },
+  {
+    "id": 2,
+    "title": "Network Troubleshooting",
+    "description": "Fix the unstable connection in Room 5.",
+    "status": "Pending",
+    "assignedTo": "John Doe"
+  }
+]

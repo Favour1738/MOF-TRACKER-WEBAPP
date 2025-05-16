@@ -1,0 +1,39 @@
+.home-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
+}
+
+.home-text {
+  text-align: center;
+  margin-bottom: 20px;
+  max-width: 700px;
+}
+
+.home-text h2 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #004080;
+  text-transform: uppercase;
+}
+
+.home-text p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.home-banner {
+  width: 100%;
+  max-width: 900px;
+  height: 350px;
+  background-image: url("../images/ict-banner.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain; /* contain so full image fits */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
