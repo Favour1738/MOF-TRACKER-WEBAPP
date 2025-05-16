@@ -10,7 +10,8 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <img src="/images/ministry-logo.png" alt="Ministry Logo" className="logo-img" />
+        <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Logo" />
+
         <span className="brand-text">Ministry ICT Tracker</span>
       </div>
 
